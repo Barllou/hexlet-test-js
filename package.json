@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Barllou/hexlet-test-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "prettier": "2.8.0"
   }
 }
